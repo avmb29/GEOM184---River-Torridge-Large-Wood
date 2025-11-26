@@ -31,7 +31,7 @@ observe({
     addCircleMarkers(
       data = bridges_snapped,
       color = "black",
-      fillColor = "purple",
+      fillColor = "pink",
       weight = 1,
       radius = 9,
       stroke = TRUE,
